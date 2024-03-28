@@ -1,0 +1,22 @@
+{
+  "name": "cy_common_component",
+  "version": "1.0.0",
+  "description": "常用组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cy2zq/cy_common_component.git"
+  },
+  "keywords": [
+    "组件"
+  ],
+  "author": "晁阳",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cy2zq/cy_common_component/issues"
+  },
+  "homepage": "https://github.com/cy2zq/cy_common_component#readme"
+}
