@@ -17,8 +17,7 @@
     "lint:css": "stylelint \"{src,test}/**/*.{css,less}\"",
     "lint:es": "eslint \"{src,test}/**/*.{js,jsx,ts,tsx}\"",
     "deploy": "gh-pages -d docs-dist",
-    "deploy:prod": "gh-pages -d dist",
-    "prepublishOnly": "father doctor && npm run build"
+    "deploy:prod": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
